@@ -20,7 +20,7 @@ Version: 0.1 Beta
 As this is a Prototype and I do not know how to access roblox's download folder you must own either Roblox or Bloxstrap already.
 
 
-1. You can download Roblox here: roblox.com/download
+1. You can download Roblox here: https://www.roblox.com/download
 
 
 2. You can download Bloxstrap: https://bloxstraplabs.com / https://github.com/bloxstraplabs/bloxstrap
