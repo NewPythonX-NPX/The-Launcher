@@ -1,4 +1,4 @@
-# The-Launcher
+# The Launcher
 Disclaimer:
 
 This Launcher is inspired HUGELY of bloxstrap, the logo is remodified of bloxstrap's. 
