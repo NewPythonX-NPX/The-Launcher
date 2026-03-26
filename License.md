@@ -1,5 +1,7 @@
-📜 NewPythonX Studio - Official License
-Copyright (c) 2026 @horimiya_lover8053 & NewPythonX Studio
+--------------------------------------------------------------
+# 📜 NewPythonX Studio - Official License
+# Copyright (c) 2026 @horimiya_lover8053 & NewPythonX Studio
+--------------------------------------------------------------
 
 Disclaimer:
 The source code is open for everyone to study, learn from, and use, provided you follow the Hard Rules below.
