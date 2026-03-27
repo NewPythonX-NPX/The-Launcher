@@ -1,6 +1,6 @@
 --------------------------------------------------------------
 # 📜 NewPythonX Studio - Official License
-# Copyright (c) 2026 @horimiya_lover8053 & NewPythonX Studio
+- Copyright (c) 2026 @horimiya_lover8053 & NewPythonX Studio
 --------------------------------------------------------------
 
 Disclaimer:
