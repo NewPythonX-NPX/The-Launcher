@@ -15,4 +15,4 @@ No Liability: This software is provided "as-is." NewPythonX Studio is not respon
 
 🟢 Negotiable Rules
 
-Commercial Use: You are strictly prohibited from selling this software or using this code for any commercial gain UNLESS you have a signed agreement from me. Commercial use is negotiable. Contact a Negotiator via Discord Server to discuss terms with them.
+Commercial Use: You are strictly prohibited from selling this software or using this code for any commercial gain UNLESS you have a signed agreement from any Negotiator. Commercial use is negotiable. Contact a Negotiator via Discord Server to discuss terms with them.
