@@ -1,4 +1,4 @@
-# The Launcher
+# <img width="70" height="70" alt="white_the_launcher" src="https://github.com/user-attachments/assets/427e22e8-d180-4a5f-bad3-40cb352a9422" /> THE LAUNCHER
 
 Disclaimer:
 
@@ -21,7 +21,6 @@ Version: 0.1 Beta
 # REQUIRMENTS
 
 As this is a Prototype and I do not know how to access roblox's download folder you must own either Roblox or Bloxstrap already.
-
 
 1. You can download Roblox here: https://www.roblox.com/download
 
