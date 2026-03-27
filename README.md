@@ -5,7 +5,7 @@ Disclaimer:
 This Launcher is inspired HUGELY of bloxstrap, the logo is remodified of bloxstrap's. 
 But we play fair so we give credits to Bloxstrap for the logo and the idea! Thank you.
 
-# Credits:
+# Credits and Version
 
 Discords;
 @horimiya_lover8053 - Creator (NewPythonX Studio (NPX))
