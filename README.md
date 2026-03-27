@@ -1,6 +1,9 @@
 # <img width="57" height="55" alt="Caution" src="https://github.com/user-attachments/assets/6107961e-f880-4d4b-97ab-9523401f4d0c" /> Caution
 You should only download 'The Launcher' from either https://newpythonx.itch.io/the-launcher or this github page. Any other websites claiming to be us is Malware, do not download it. Our code is open source, i'd be impossible to put in Malware. You can see this code if you go to our Releases, download the latest version and then unextract it, then you will see main.pyw, thats the code, you can either run it by double clicking main.pyw if you have Python else run the exe file.
 
+
+
+
 # <img width="70" height="70" alt="white_the_launcher" src="https://github.com/user-attachments/assets/427e22e8-d180-4a5f-bad3-40cb352a9422" /> THE LAUNCHER
 
 Disclaimer:
