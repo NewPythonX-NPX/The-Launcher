@@ -1,7 +1,8 @@
 # <img width="70" height="65" alt="Caution" src="https://github.com/user-attachments/assets/86a3f01b-87ae-438c-a212-82f3b120818c" /> Caution
 You should only download 'VeloStrap' from either https://newpythonx.itch.io/velostrap-npx or this github page. Any other websites claiming to be us is Malware, do not download it. Our code is open source, i'd be impossible to put in Malware. You can see this code if you go to our Releases, download the latest version and then unextract it, then you will see main.pyw, thats the code, you can either run it by double clicking main.pyw if you have Python else run the exe file.
 
-# <img width="400" height="399" alt="VeloStrapBackgroundText" src="https://github.com/user-attachments/assets/ee524ade-461a-45ba-9a58-8393d2d5ee51" />
+# <img width="400" height="399" alt="BackgroundVeloText" src="https://github.com/user-attachments/assets/f5ecc6b7-30d4-4575-8e68-31c11cee43de" />
+
 
 
 # VeloStrap
