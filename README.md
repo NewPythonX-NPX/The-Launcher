@@ -3,13 +3,16 @@ You should only download 'VeloStrap' from either https://newpythonx.itch.io/velo
 
 # <img width="459" height="300" alt="TextBackground" src="https://github.com/user-attachments/assets/09f4c402-c997-4a1a-8da3-dce9af090dc4" />
 
+# VeloStrap
 
 Disclaimer:
 
-This Launcher is inspired HUGELY of bloxstrap, the logo is remodified of bloxstrap's. 
-But we play fair so we give credits to Bloxstrap for the logo and the idea! Thank you.
+Credits to 'BloxStrap' for the idea for VeloStrap.
 
-# Credits and Version
+Aswell do not change the version in 'main.py', if you do the app will think you have an updated version and you will not be
+redirected to update your Launcher.
+
+# Credits:
 
 Discords;
 @horimiya_lover8053 - Creator (NewPythonX Studio (NPX))
@@ -17,16 +20,34 @@ Discords;
 AI Used;
 @Gemini-AI - Programmar
 
+-----------------
 
-Version: 0.1 Beta
+Version: 0.1.1
 
 -----------------
 
 # REQUIRMENTS
 
-As this is a Prototype and I do not know how to access roblox's download folder you must own either Roblox or Bloxstrap already.
+As this is a Prototype and I do not know how to access roblox's download folder you must own either Roblox, Bloxstrap or Fishstrap
+already. I am planning to make it auto download roblox via versions folder but for now you have to own one of these apps already:
 
-1. You can download Roblox here: https://www.roblox.com/download
 
+1. You can download Roblox at: Main: https://www.roblox.com/download
 
-2. You can download Bloxstrap: https://bloxstraplabs.com / https://github.com/bloxstraplabs/bloxstrap
+-
+
+2. You can download Bloxstrap at: Main: https://bloxstraplabs.com / Winget: winget install -e --id pizzaboxer.Bloxstrap /
+Github.com: https://github.com/bloxstraplabs/bloxstrap
+
+-
+
+3. You can download Fishstrap at: Main: https://www.fishstrap.app / Winget: winget install Fishstrap.Fishstrap / Github.com:
+https://github.com/fishstrap/fishstrap
+
+-----------------
+
+# Discords
+(If the owner is NOT @horimiya_lover8053 this server is fake. (Only for NPX Games))
+
+NewPythonX Discord: https://discord.gg/6SvNjbkcAN
+The Launcher Discord: https://discord.gg/CxGzGWmyNz
