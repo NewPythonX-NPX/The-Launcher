@@ -1,17 +1,13 @@
 # <img width="70" height="65" alt="Caution" src="https://github.com/user-attachments/assets/86a3f01b-87ae-438c-a212-82f3b120818c" /> Caution
 You should only download 'VeloStrap' from either our [itch.io](https://newpythonx.itch.io/velostrap-npx) page or this github page. Any other websites claiming to be us is Malware, do not download it. Our code is open source, i'd be impossible to put in Malware. You can see this code if you go to our Releases, download the latest version and then unextract it, then you will see main.pyw, thats the code, you can either run it by double clicking main.pyw if you have Python else run the exe file.
 
-# <img width="400" height="399" alt="BackgroundVeloText" src="https://github.com/user-attachments/assets/25af88ff-777b-434e-aa15-416bc6625182" />
+# <img width="400" height="399" alt="BackgroundLong" src="[https://github.com/user-attachments/assets/86a3f01b-87ae-438c-a212-82f3b120818c](https://github.com/user-attachments/assets/837cc4ec-587b-4a77-9f8b-5303251651c8)" />
 
-
-
-
-
-# VeloStrap
+# BananaStrap
 
 Disclaimer:
 
-Credits to 'BloxStrap' for the idea for VeloStrap.
+Credits to 'BloxStrap' for the idea for BananaStrap.
 
 Aswell do not change the version in 'main.py', if you do the app will think you have an updated version and you will not be
 redirected to update your Launcher.
@@ -26,7 +22,7 @@ AI Used;
 
 -----------------
 
-Version: 0.1.5-Alpha
+Version: 0.1.4-Alpha
 
 -----------------
 
@@ -55,4 +51,4 @@ https://github.com/fishstrap/fishstrap
 
 NewPythonX Discord: https://discord.gg/6SvNjbkcAN
 -
-The Launcher Discord: https://discord.gg/CxGzGWmyNz
+BananaStrap Discord: https://discord.gg/CxGzGWmyNz
