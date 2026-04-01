@@ -51,5 +51,5 @@ https://github.com/fishstrap/fishstrap
 (If the owner is NOT @horimiya_lover8053 this server is fake. (Only for NPX Games))
 
 NewPythonX Discord: https://discord.gg/6SvNjbkcAN
--
+
 VeloStrap Discord: https://discord.gg/CxGzGWmyNz
