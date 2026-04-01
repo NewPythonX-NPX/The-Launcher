@@ -52,4 +52,4 @@ https://github.com/fishstrap/fishstrap
 
 NewPythonX Discord: https://discord.gg/6SvNjbkcAN
 -
-BananaStrap Discord: https://discord.gg/CxGzGWmyNz
+VeloStrap Discord: https://discord.gg/CxGzGWmyNz
