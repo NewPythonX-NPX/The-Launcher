@@ -1,13 +1,14 @@
 # <img width="70" height="65" alt="Caution" src="https://github.com/user-attachments/assets/86a3f01b-87ae-438c-a212-82f3b120818c" /> Caution
-You should only download 'BananaStrap' from either our [itch.io](https://newpythonx.itch.io/banana-strap) page or this github page. Any other websites claiming to be us is Malware, do not download it. Our code is open source, i'd be impossible to put in Malware. You can see this code if you go to our Releases, download the latest version and then unextract it, then you will see main.pyw, thats the code, you can either run it by double clicking main.pyw if you have Python else run the exe file.
+You should only download 'VeloStrap' from either our [itch.io](https://newpythonx.itch.io/velo-strap) page or this github page. Any other websites claiming to be us is Malware, do not download it. Our code is open source, i'd be impossible to put in Malware. You can see this code if you go to our Releases, download the latest version and then unextract it, then you will see main.pyw, thats the code, you can either run it by double clicking main.pyw if you have Python else run the exe file.
 
-# <img width="400" height="399" alt="BackgroundLong" src="[https://github.com/user-attachments/assets/86a3f01b-87ae-438c-a212-82f3b120818c](https://github.com/user-attachments/assets/837cc4ec-587b-4a77-9f8b-5303251651c8)" />
 
-# BananaStrap
+# <img width="400" height="400" alt="BackgroundVeloText" src="https://github.com/user-attachments/assets/d0db45f9-a116-4d35-a419-16ab0433dc3b" />
+
+# VeloStrap
 
 Disclaimer:
 
-Credits to 'BloxStrap' for the idea for BananaStrap.
+Credits to 'BloxStrap' for the idea for VeloStrap.
 
 Aswell do not change the version in 'main.py', if you do the app will think you have an updated version and you will not be
 redirected to update your Launcher.
