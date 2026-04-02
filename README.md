@@ -23,7 +23,7 @@ AI Used;
 
 -----------------
 
-Version: 0.1.4-Alpha
+Version: 0.1.5-Alpha
 
 -----------------
 
