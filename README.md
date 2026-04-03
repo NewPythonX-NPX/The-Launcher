@@ -4,52 +4,42 @@ You should only download 'VeloStrap' from either our [itch.io](https://newpython
 
 # <img width="400" height="400" alt="BackgroundVeloText" src="https://github.com/user-attachments/assets/d0db45f9-a116-4d35-a419-16ab0433dc3b" />
 
-# VeloStrap
+# 🎁 VELOSTRAP
 
-Disclaimer:
+## ❗ DISCLAIMER
 
-Credits to 'BloxStrap' for the idea for VeloStrap.
+Credits to 'BloxStrap' for the idea for VeloStrap
+
+VeloStrap is an independent project and is not affiliated with Roblox Corp.
 
 Aswell do not change the version in 'main.py', if you do the app will think you have an updated version and you will not be
 redirected to update your Launcher.
 
-# Credits:
+## 💎CREDITS & TEAM
 
-Discords;
+Discord:
 @horimiya_lover8053 - Creator (NewPythonX Studio (NPX))
 
-AI Used;
-@Gemini-AI - Programmar
+AIs Used:
+@ChatGPT-Codex - Lead Programmar
+@Gemini-AI - Retired Programmar
 
 -----------------
 
-Version: 0.1.5-Alpha
+## 🆚 Version
+
+Version: 0.1.6-Alpha
 
 -----------------
 
-# REQUIRMENTS
-
-As this is a Prototype and I do not know how to access roblox's download folder you must own either Roblox, Bloxstrap or Fishstrap
-already. I am planning to make it auto download roblox via versions folder but for now you have to own one of these apps already:
-
-
-1. You can download Roblox at: Main: https://www.roblox.com/download
-
--
-
-2. You can download Bloxstrap at: Main: https://bloxstraplabs.com / Winget: winget install -e --id pizzaboxer.Bloxstrap /
-Github.com: https://github.com/bloxstraplabs/bloxstrap
-
--
-
-3. You can download Fishstrap at: Main: https://www.fishstrap.app / Winget: winget install Fishstrap.Fishstrap / Github.com:
-https://github.com/fishstrap/fishstrap
+## 🛠️ REQUIREMENTS
+Internet Connection: Required for the initial setup and to fetch the latest Roblox versions automatically.
+No Manual Install Needed: VeloStrap will automatically detect, download, and update Roblox if it isn't found on your system.
 
 -----------------
 
-# Discords
+## 🔵 DISCORDS
 (If the owner is NOT @horimiya_lover8053 this server is fake. (Only for NPX Games))
 
 NewPythonX Discord: https://discord.gg/6SvNjbkcAN
-
 VeloStrap Discord: https://discord.gg/CxGzGWmyNz
