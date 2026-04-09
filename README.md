@@ -2,7 +2,7 @@
 You should only download 'VeloStrap' from either our:
 [itch.io](https://newpythonx.itch.io/velo-strap) page,
 This github page,
-Or our [website](https://velostraplauncher.netlify.app)
+Or our [website](https://velostrap-offical.netlify.app)
 
 Any other websites claiming to be us is Malware, do not download it. 
 
