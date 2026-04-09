@@ -28,7 +28,7 @@ AIs Used:
 
 ## 🆚 Version
 
-Version: 0.1.6-Alpha
+Version: 0.1.7-Alpha
 
 -----------------
 
