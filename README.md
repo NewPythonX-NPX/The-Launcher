@@ -1,12 +1,7 @@
-# <img width="70" height="65" alt="Caution" src="https://github.com/user-attachments/assets/86a3f01b-87ae-438c-a212-82f3b120818c" /> Caution
-You should only download 'VeloStrap' from either our:
-[itch.io](https://newpythonx.itch.io/velo-strap) page,
-This github page,
-Or our [website](https://velostrap-offical.netlify.app)
+> [!CAUTION]
+> The only official places to download VeloStrap are this GitHub repository, [https://velostrap-offical.netlify.app](https://velostrap-offical.netlify.app) and [itch.io](https://newpythonx.itch.io/velo-strap). Any other websites offering downloads or claiming to be us are not owned by us.
 
-Any other websites claiming to be us is Malware, do not download it. 
-
-Our code is open source, i'd be impossible to put in Malware. You can see this code if you go to our Releases, download the latest version and then unextract it, then you will see main.pyw, thats the code, you can either run it by double clicking main.pyw if you have Python else run the exe file.
+Our code is open source, i'd be impossible to put in Malware. You can see this code if you go to our Releases, download the latest version and then unextract it, then you will see VeloStrap.py, thats the code, you can either run it by double clicking VeloStrap.py if you have Python else you can run it via the exe file.
 
 
 # <img width="400" height="400" alt="BackgroundVeloText" src="https://github.com/user-attachments/assets/d0db45f9-a116-4d35-a419-16ab0433dc3b" />
