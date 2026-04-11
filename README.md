@@ -4,15 +4,13 @@
 Our code is open source, i'd be impossible to put in Malware. You can see this code if you go to our Releases, download the latest version and then unextract it, then you will see VeloStrap.py, thats the code, you can either run it by double clicking VeloStrap.py if you have Python else you can run it via the exe file.
 
 
-# <img width="400" height="400" alt="BackgroundVeloText" src="https://github.com/user-attachments/assets/d0db45f9-a116-4d35-a419-16ab0433dc3b" />
-
-# 🎁 VELOSTRAP
+# <img width="400" height="400" alt="Background" src="https://github.com/user-attachments/assets/d0db45f9-a116-4d35-a419-16ab0433dc3b" />
 
 ## ❗ DISCLAIMER
 
-Credits to 'BloxStrap' for the idea for VeloStrap
+Credits to 'BloxStrap' and 'VoidStrap' for the ideas of VeloStrap.
 
-VeloStrap is an independent project and is not affiliated with Roblox Corp.
+VeloStrap is an independent project and is not affiliated with Roblox Corperation.
 
 Aswell do not change the version in 'main.py', if you do the app will think you have an updated version and you will not be
 redirected to update your Launcher.
@@ -24,13 +22,13 @@ Discord:
 
 AIs Used:
 @ChatGPT-Codex - Lead Programmar
-@Gemini-AI - Retired Programmar
+@Gemini-AI - Lead Optimization Architect
 
 -----------------
 
 ## 🆚 Version
 
-Version: 0.1.7-Alpha
+Version: 0.1.8
 
 -----------------
 
