@@ -1,5 +1,5 @@
 > [!CAUTION]
-> The only official places to download VeloStrap are this GitHub repository, [https://velostrap-offical.netlify.app](https://velostrap-offical.netlify.app) and [itch.io](https://newpythonx.itch.io/velo-strap). Any other websites offering downloads or claiming to be us are not owned by us.
+> The only official places to download VeloStrap are this GitHub repository, [velostrap-offical.netlify.app](https://velostrap-offical.netlify.app) and [itch.io](https://newpythonx.itch.io/velo-strap). Any other websites offering downloads or claiming to be us are not owned by us.
 
 Our code is open source, i'd be impossible to put in Malware. You can see this code if you go to our Releases, download the latest version and then unextract it, then you will see VeloStrap.py, thats the code, you can either run it by double clicking VeloStrap.py if you have Python else you can run it via the exe file.
 
