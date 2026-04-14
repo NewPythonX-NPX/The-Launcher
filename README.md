@@ -6,7 +6,8 @@
     <img src="https://github.com/bloxstraplabs/bloxstrap/raw/main/Images/Bloxstrap-full-light.png#gh-light-mode-only" width="380">
 </p>
 
-<div align="center">
+---
+    
 # 🎁 VeloStrap
 **Version: 0.1.9**
 
