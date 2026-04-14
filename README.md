@@ -1,6 +1,12 @@
 > [!CAUTION]
 > The only official places to download VeloStrap are this GitHub repository, [velostrap-offical.netlify.app](https://velostrap-offical.netlify.app) and [itch.io](https://newpythonx.itch.io/velo-strap). Any other websites offering downloads or claiming to be us are not owned by us.
-    
+
+<p align="center">
+  <img src="assets/velostrap-banner" alt="VeloStrap" width="800">
+</p>
+
+---
+
 # 🎁 VeloStrap
 **Version: 0.1.9**
 
