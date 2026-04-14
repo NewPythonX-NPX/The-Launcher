@@ -1,45 +1,57 @@
 > [!CAUTION]
 > The only official places to download VeloStrap are this GitHub repository, [velostrap-offical.netlify.app](https://velostrap-offical.netlify.app) and [itch.io](https://newpythonx.itch.io/velo-strap). Any other websites offering downloads or claiming to be us are not owned by us.
 
-Our code is open source, i'd be impossible to put in Malware. You can see this code if you go to our Releases, download the latest version and then unextract it, then you will see VeloStrap.py, thats the code, you can either run it by double clicking VeloStrap.py if you have Python else you can run it via the exe file.
-
-
 # <img width="400" height="400" alt="Background" src="https://github.com/user-attachments/assets/d0db45f9-a116-4d35-a419-16ab0433dc3b" />
 
-## ❗ DISCLAIMER
+# 🎁 VeloStrap
+**Version: 0.1.9**
 
-Credits to 'BloxStrap' and 'VoidStrap' for the ideas of VeloStrap.
+VeloStrap helps people with Roblox's FPS as some people are on low-end devices and don't have any good bootstrapper
+to boost their FPS.
 
-VeloStrap is an independent project and is not affiliated with Roblox Corperation.
+---
 
-Aswell do not change the version in 'main.py', if you do the app will think you have an updated version and you will not be
-redirected to update your Launcher.
+## ❗ Disclaimer
 
-## 💎CREDITS & TEAM
+VeloStrap is an independent project and is **not** affiliated with, maintained, or endorsed by Roblox Corporation. 
 
-Discord:
-@horimiya_lover8053 - Creator (NewPythonX Studio (NPX))
+A massive shoutout to **BloxStrap** and **VoidStrap** for inspiring the ideas behind VeloStrap. 
 
-AIs Used:
-@ChatGPT-Codex - Lead Programmar
-@Gemini-AI - Lead Optimization Architect
+> **⚠️ Important Note:**
+> Please do not change the version number in `main.py`. If you do, the app will falsely think you have an updated version, and you will not be redirected to update your launcher when new patches drop.
 
------------------
+---
 
-## 🆚 Version
+## 🛠️ Requirements
 
-Version: 0.1.8
+* **Internet Connection:** Required for the initial setup and to fetch the latest Roblox versions automatically.
+* **No Manual Install Needed:** VeloStrap will automatically detect, download, and update Roblox if it isn't found on your system.
 
------------------
+---
 
-## 🛠️ REQUIREMENTS
-Internet Connection: Required for the initial setup and to fetch the latest Roblox versions automatically.
-No Manual Install Needed: VeloStrap will automatically detect, download, and update Roblox if it isn't found on your system.
+## 💎 Credits & Team
 
------------------
+**Creator & Lead Developer**
+* **@horimiya_lover8053** - NewPythonX Studio (NPX)
 
-## 🔵 DISCORDS
-(If the owner is NOT @horimiya_lover8053 this server is fake. (Only for NPX Games))
+**AI Assistants**
+* **ChatGPT (Codex)** - Lead Programmer
+* **Gemini AI** - Lead Optimization Architect
 
-NewPythonX Discord: https://discord.gg/6SvNjbkcAN
-VeloStrap Discord: https://discord.gg/CxGzGWmyNz
+---
+
+## ❓ Frequently Asked Questions
+
+Q: Is this Malware?
+
+A: No, VeloStrap is open source and for everyone to read, learn or study from. Any websites claiming to be us, please
+double check with the official links linked within discord.
+
+---
+
+## 🔵 Extra & Community
+
+> **🔒 Security Note:** If the Discord server owner is not `@horimiya_lover8053`, the server is not an official NPX Games affiliate. Stay safe and only join official links!
+
+* 💬 [Join the NewPythonX Discord](https://discord.gg/6SvNjbkcAN)
+* 💬 [Join the VeloStrap Discord](https://discord.gg/CxGzGWmyNz)
