@@ -1,12 +1,5 @@
 > [!CAUTION]
 > The only official places to download VeloStrap are this GitHub repository, [velostrap-offical.netlify.app](https://velostrap-offical.netlify.app) and [itch.io](https://newpythonx.itch.io/velo-strap). Any other websites offering downloads or claiming to be us are not owned by us.
-
-<p align="center">
-    <img src="https://github.com/NewPythonX-NPX/VeloStrap/raw/main/Images/VeloStrap-full-dark.png#gh-dark-mode-only" width="380">
-    <img src="https://github.com/NewPythonX-NPX/VeloStrap/raw/main/Images/VeloStrap-full-light.png#gh-light-mode-only" width="380">
-</p>
-
----
     
 # 🎁 VeloStrap
 **Version: 0.1.9**
