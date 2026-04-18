@@ -8,7 +8,6 @@
 ---
 
 # 🎁 VeloStrap
-**Version: 0.1.9**
 
 VeloStrap helps people with Roblox's FPS as some people are on low-end devices and don't have any good bootstrapper
 to boost their FPS.
