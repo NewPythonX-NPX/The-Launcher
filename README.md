@@ -54,7 +54,7 @@ double check with the official links linked within discord.
 
 ## 🔵 Extra & Community
 
-> **🔒 Security Note:** If the Discord server owner is not `@horimiya_lover8053`, the server is not an official NPX Games affiliate. Stay safe and only join official links!
+> **🔒 Security Note:** If the Discord server owner user id is not `1236734895577894943`  or `1250418429156917408`, the server is not affiliated with the official NewPythonX Studios. Stay safe and only join official links!
 
 * 💬 [Join the NewPythonX Discord](https://discord.gg/6SvNjbkcAN)
 * 💬 [Join the VeloStrap Discord](https://discord.gg/CxGzGWmyNz)
