@@ -58,3 +58,6 @@ double check with the official links linked within discord.
 
 * 💬 [Join the NewPythonX Discord](https://discord.gg/6SvNjbkcAN)
 * 💬 [Join the VeloStrap Discord](https://discord.gg/CxGzGWmyNz)
+* 🕸 [See the official Website](https://newpythonx-npx.github.io/velostrap-web/)
+* 🌌 [VeloStrap Github](https://github.com/NewPythonX-NPX/VeloStrap)
+* ℹ [Official Itch.io Download](https://newpythonx.itch.io/velo-strap)
